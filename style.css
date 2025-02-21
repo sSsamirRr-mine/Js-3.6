@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 42px;
+
+}
